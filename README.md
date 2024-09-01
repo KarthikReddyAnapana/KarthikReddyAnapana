@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Anapana Karthik Reddy</h1>
 <h3 align="center">A tech-hungry guy LEARNING a new thing everyday</h3>
-<img align="right"  alt="Coding" width ="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikreddyanapana&label=Profile%20views&color=0e75b6&style=flat" alt="karthikreddyanapana" /> </p>
 

@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.pinterest.com/pin/381117187209664070/))]
+[![MasterHead](https://dribbble.com/shots/2881544-PluraVida-computer-guy)]
 <h1 align="center">Hi 👋, I'm Anapana Karthik Reddy</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/cartoon-sleep-tired-nsQNnJLDwioUZhBRXR">

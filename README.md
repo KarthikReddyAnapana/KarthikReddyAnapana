@@ -31,7 +31,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,msword" />
   </a>
 </p>
-
+  
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Data Analysis ✍️

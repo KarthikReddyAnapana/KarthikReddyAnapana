@@ -38,7 +38,8 @@
 - Cloud computing ☁️
 - Data Science 😬
 - MySQL <img src="https://user-images.githubusercontent.com/11978772/40430854-46e62868-5e63-11e8-9fac-920ee4ef5237.png" width="30">
-
+- Amazon Web Services
+- Figma 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KarthikReddyAnapana&theme=Yellow&border_radius=30&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 

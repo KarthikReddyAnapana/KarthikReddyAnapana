@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/KarthikReddyAnapana](www.github.com/KarthikReddyAnapana)
 
-- 📫 How to reach me **karthikreddyanapana@gmail.com**
+- 📫 How to reach me **karthikreddyanapana@gmail.com** 
 
 - ⚡ Fun fact **Why did the data analyst bring a ladder to work? Because they wanted to take their insights to the next level.**
 
